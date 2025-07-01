@@ -32,5 +32,5 @@ This is a React-based wellness chatbot that helps users manage their mood and me
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-wellness-support.git
+git clone [https://github.com/your-username/ai-wellness-support.git](https://github.com/CodePandaAkhilesh/vaishnavi-agent)
 cd ai-wellness-support
